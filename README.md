@@ -5,6 +5,7 @@ It is designed for penetration testers and network administrators to identify po
 Windows Operating Systems.
 
 **Features**
+
 ->Windows service enumeration
 ->Detection of vulnerable services
 ->Simplified Nmap scanning
