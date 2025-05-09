@@ -4,31 +4,39 @@ YokkerRIPScanner v1.0 is a powerful Bash script for scanning and enumerating Win
 It is designed for penetration testers and network administrators to identify potentially vulnerable services on 
 Windows Operating Systems.
 
-**Features**
+=>Features
 
 ->Windows service enumeration
+
 ->Detection of vulnerable services
+
 ->Simplified Nmap scanning
+
 ->Detailed output logging
 
-**Prerequisites**
+=>Prerequisites
 Kali Linux or any other Linux distribution with Bash support
 Nmap installed (Recommended version: 7.93 or higher)
 
-**Installation**
+=>Installation
 
 1. Git Clone or wget:
+
 git clone https://github.com/Yokker-ng-1992/YokkerRIPScanner.git
+
 or
+
 wget https://github.com/Yokker-ng-1992/YokkerRIPScanner.git
 
-2. Open Root Terminal and Navigate to YokkerRIPScanner1.0 directory:
+3. Open Root Terminal and Navigate to YokkerRIPScanner1.0 directory:
+
 cd YokkerRIPScanner1.0
 
-3. Make the script executable:
+5. Make the script executable:
+6. 
 chmod +x YokkerRIPScanner1.0.sh
 
-**Usage**
+=>Usage
 Run the script with the target IP address as the first argument:
 ./YokkerRIPScanner1.0.sh <target_IP>
 Or
