@@ -14,9 +14,13 @@ Windows Operating Systems.
 
 ->Detailed output logging
 
+
 =>Prerequisites
+
 Kali Linux or any other Linux distribution with Bash support
+
 Nmap installed (Recommended version: 7.93 or higher)
+
 
 =>Installation
 
