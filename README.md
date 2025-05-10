@@ -101,7 +101,7 @@ If you have ideas for new features, optimizations, or bug fixes, please open a p
 
 =>Warning
 
-The creator **TICIC** does not condone **Illegal Activity**
+The creator **TICIC** does not condone **Illegal Activity**!!!
 
 Use this script responsibly and only on networks you have permission to test.
 
