@@ -26,11 +26,11 @@ Nmap installed (Recommended version: 7.93 or higher)
 
 1. Git Clone or wget:
 
-git clone https://github.com/Yokker-ng-1992/YokkerRIPScanner.git
+git clone https://github.com/Yokker-ng-1992/YokkerRIPScanner1.0.git
 
 or
 
-wget https://github.com/Yokker-ng-1992/YokkerRIPScanner.git
+wget https://github.com/Yokker-ng-1992/YokkerRIPScanner1.0.git
 
 3. Open Root Terminal and Navigate to YokkerRIPScanner1.0 directory:
 
