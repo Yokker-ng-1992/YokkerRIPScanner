@@ -65,7 +65,7 @@ nmap -Pn -p 22 -sV -T4 -vvv --script ssh-hostkey,ssh-auth-methods $TARGET | tee 
 
 # Web services
 echo -e "\n\033[1;34m[+] Checking HTTP/HTTPS (80, 443, 8443)...\033[0m" | tee -a $OUTPUT 
-nmap -Pn -p 80,443,8443 -sV -T4 -vvv -script http-title,http-ntlm-info,http-auth,http-iis-short-name-brute,http-iis-webdav-vuln,http-google-malware $TARGET | tee -a $OUTPUT
+nmap -Pn -p 80,443,8443 -sV -T4 -vvv -script http-title,http-ntlm-info,http-auth,http-iis-short-name-brute,http-iis-webdav-vuln $TARGET | tee -a $OUTPUT
 
 # RDP check
 echo -e "\n\033[1;34m[+] Checking RDP (3389)...\033[0m" | tee -a $OUTPUT 
