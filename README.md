@@ -1,4 +1,4 @@
------->>> **YokkerRIPScanner v1.0** <<<--------
+------>>> **YokkerRIPScanner v1.0** <<<-------
 
 YokkerRIPScanner v1.0 is a powerful Bash script for scanning and enumerating Windows services using Nmap. 
 It is designed for penetration testers and network administrators to identify potentially vulnerable services on 
