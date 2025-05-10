@@ -30,7 +30,7 @@ git clone https://github.com/Yokker-ng-1992/YokkerRIPScanner1.0.git
 
 or
 
-wget https://github.com/Yokker-ng-1992/YokkerRIPScanner1.0.git
+Download YokkerRIPScanner1.0.zip
 
 3. Open Root Terminal and Navigate to YokkerRIPScanner1.0 directory:
 
@@ -120,4 +120,9 @@ For issues, improvements, or feedback, feel free to reach out to the creator.
 
 =>My Kali Linux Version
 Kali 6.12.20-1kali1 (2025), x86_64 GNU/Linux.
+
+
+=>Buy Yokker-ng Caffè on:
+https://ko-fi.com/yokkerdeveloper_2025
+
 
