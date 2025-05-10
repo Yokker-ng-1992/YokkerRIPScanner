@@ -24,7 +24,7 @@ Nmap installed (Recommended version: 7.93 or higher)
 
 =>Installation
 
-1. Git Clone or wget:
+1. Git Clone or Download:
 
 git clone https://github.com/Yokker-ng-1992/YokkerRIPScanner1.0.git
 
