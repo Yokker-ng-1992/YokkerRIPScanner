@@ -32,11 +32,11 @@ or
 
 Download YokkerRIPScanner1.0.zip
 
-3. Open Root Terminal and Navigate to YokkerRIPScanner1.0 directory:
+2. Open Root Terminal and Navigate to YokkerRIPScanner1.0 directory:
 
 cd YokkerRIPScanner1.0
 
-5. Make the script executable:
+3. Make the script executable:
 
 chmod +x YokkerRIPScanner1.0.sh
 
