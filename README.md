@@ -4,7 +4,7 @@ YokkerRIPScanner v1.0 is a powerful Bash script for scanning and enumerating Win
 It is designed for penetration testers and network administrators to identify potentially vulnerable services on 
 Windows Operating Systems.
 
-=>Features
+=>**Features**
 
 ->Windows service enumeration
 
@@ -15,14 +15,14 @@ Windows Operating Systems.
 ->Detailed output logging
 
 
-=>Prerequisites
+=>**Prerequisites**
 
 Kali Linux or any other Linux distribution with Bash support
 
 Nmap installed (Recommended version: 7.93 or higher)
 
 
-=>Installation
+=>**Installation**
 
 1. Git Clone or Download:
 
@@ -41,7 +41,7 @@ cd YokkerRIPScanner1.0
 chmod +x YokkerRIPScanner1.0.sh
 
 
-=>Usage
+=>**Usage**
 
 Run the script with the target IP address as the first argument:
 
@@ -74,21 +74,21 @@ The results will be saved in Yokker1.0_results_saved.csv - - >> inside Results d
    rm -rf Yokker1.0_results_saved.csv
 
 
-=>More Info
+=>**More Info**
 
 1. Navigate to img dir.
 
 3. Open and view All Photos.
 
 
-=>Contributing
+=>**Contributing**
 
 Contributions are welcome! 
 
 If you have ideas for new features, optimizations, or bug fixes, please open a pull request or create an issue.
 
 
-=>Future Features
+=>**Future Features**
 
 ->Support for multi-threading for faster scanning
 
@@ -99,30 +99,30 @@ If you have ideas for new features, optimizations, or bug fixes, please open a p
 ->Advanced vulnerability detection using NSE scripts
 
 
-=>Warning
+=>**Warning**
 
 The creator **TICIC** does not condone **Illegal Activity**!!!
 
 Use this script responsibly and only on networks you have permission to test.
 
 
-=>License
+=>**License**
 
 This project is licensed under the GNU General Public License v3.0. 
 
 See the LICENSE file for details.
 
 
-=>Contact
+=>**Contact**
 
 For issues, improvements, or feedback, feel free to reach out to the creator.
 
 
-=>My Kali Linux Version
+=>**My Kali Linux Version**
 Kali 6.12.20-1kali1 (2025), x86_64 GNU/Linux.
 
 
-=>Buy Yokker-ng Caffè on:
+=>**Buy Yokker-ng Caffè on:**
 https://ko-fi.com/yokkerdeveloper_2025
 
 
