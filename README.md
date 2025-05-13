@@ -63,7 +63,7 @@ bash YokkerRIPScanner1.0.sh 192.168.1.1
 The results will be saved in Yokker1.0_results_saved.csv - - >> inside Results directory.
 
 
-=>For Remove  Yokker1.0_results_saved.csv file
+=>**For Remove  Yokker1.0_results_saved.csv file**
 
 1. Navigate to Results dir.:
 
